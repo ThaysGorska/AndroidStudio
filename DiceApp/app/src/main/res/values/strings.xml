@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="bem_vindo_ao_app_de_dados">BEM-VINDO AO APP DE DADOS</string>
+    <string name="escolha_o_dado_com_a_quantidade_de_n_meros_que_quer_rolar">Escolha o dado com a quantidade de números que quer rolar!</string>
+    <string name="jogar_d6">Jogar D6</string>
+    <string name="jogar_d12">Jogar D12</string>
+    <string name="jogar_d20">Jogar D20</string>
+</resources>
